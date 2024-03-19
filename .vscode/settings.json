@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/be6fb4d4-179e-4fee-b0d6-66380cc65bd4/resourceGroups/TestResourceGroup2/providers/Microsoft.Web/sites/KenziChatAppAngular",
+    "appService.deploySubpath": "ChatAppFront\\dist\\chat-app-front"
+}
